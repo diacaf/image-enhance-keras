@@ -1,6 +1,7 @@
-# Image-enhance / scaleX4 -keras<br><br>
+##  Image-enhance / scaleX4 -keras<br><br>
 Image super-resolution (restoration of rich details in a low resolution image) <br><br>
-Setup
+
+##  Setup
 
 Supports Keras with  Tensorflow backend.<br> 
 By default GPU use(recommended) <br>
