@@ -1,4 +1,4 @@
-#Image-enhance / scaleX4 -keras<br><br>
+# Image-enhance / scaleX4 -keras<br><br>
 Image super-resolution (restoration of rich details in a low resolution image) <br><br>
 Setup
 
