@@ -7,4 +7,4 @@ Model weights http://epsilonsys.com/weights025-17-0.93.h5
 
 ## Usage
 The model weights can be downloaded from http://epsilonsys.com/weights025-17-0.93.h5 to /weights_Double/ folder :<br>
-python main_dirpath.py "imgpath", where imgpath is a full path to the image.
+`python main_dirpath.py "imgpath"`, where imgpath is a full path to the images folder.
