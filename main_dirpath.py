@@ -82,8 +82,7 @@ elif model_type == "difv4":
     model = models.Difvdsr4(scale_factor)       
 elif model_type == "didbl":
     model = models.DifvdsrDouble(scale_factor)                 
-elif model_type == "sre":
-    model = models.EfficientSubPixelConvolutionalSR(scale_factor)    
+   
 else:
     model = models.DeepDenoiseSR(scale_factor)
 
