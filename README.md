@@ -21,8 +21,8 @@ SSIM  0.904<br>
 Best SSIM (NTIRE 2017) 0.901<br>
 
 ##  Our Quantitative results on Set5 with X4 computed on RGB
-SSIM  0.878<br>
-Best SSIM (NTIRE 2017) 0.873<br>
+SSIM  0.879<br>
+Best SSIM (NTIRE 2017) 0.874<br>
 
 Official SSIM score from  NTIRE 2017 :<br>
 http://www.vision.ee.ethz.ch/~timofter/publications/Agustsson-CVPRW-2017suppl.pdf
