@@ -7,11 +7,11 @@ Supports Keras with  Tensorflow backend.<br>
 By default GPU use(recommended) <br>
 For CPU only please uncomment in main_dirpath.py 3 rd line <br> ` #os.environ['CUDA_VISIBLE_DEVICES'] = '-1' `
 
-Model weights http://epsilonsys.com/weights025-17-0.93.h5<br>
+Model weights http://epsilonsys.com/weights025-17-0.93.rar<br>
 Train data https://data.vision.ee.ethz.ch/cvl/DIV2K/
 
 ## Usage
-The model weights can be downloaded from http://epsilonsys.com/weights025-17-0.93.h5 to /weights_Double/ folder :<br>
+The model weights can be downloaded from http://epsilonsys.com/weights025-17-0.93.rar to /weights_Double/ folder :<br>
 `python main_dirpath.py "imgpath"`, where imgpath is a full path to the images folder.
 
 
